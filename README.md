@@ -1,4 +1,5 @@
 # Starbucks
+![Ekran Kaydı_Starbucks](https://github.com/rumeysabaysal/Starbucks/assets/147662934/db5b6ef6-d654-4132-8db9-1c3707925824)
 
 # Açıklama
 -Bu GitHub deposu, Starbucks'ın kahve dünyasını keşfetmeye yönelik hazırlanmıştır.
